@@ -26,4 +26,4 @@ cd ~
 ```
 
 ## use Jupyter Classic for IHaskell notebooks
-for some reason syntax highliting for Haskell only seem to work in Jupyter Classic
+Inside CoCalc, syntax highliting for Haskell only seem to work in Jupyter Classic 
